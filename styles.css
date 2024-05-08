@@ -1,4 +1,4 @@
-body {
+.main {
     margin-left: 90px;
     margin-right: 100px;
 }
@@ -60,8 +60,8 @@ h4 {
     padding: 5px 5px;
 }
 .culture {
-    margin-top: 80px;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
     text-align: center;
     text-decoration: underline;
 
@@ -79,16 +79,16 @@ h4 {
     text-decoration-line: underline;
 }
 .hwange {
-    max-height: 500px;
-    width: 1300px;
+    max-height: 600px;
+    width: 1600px;
 }
 .vic-falls {
   max-height: 500px;
-    width: 1500px;  
+    width: 1600px;  
 }
 .vhumba {
   max-height: 500px;
-    width: 1300px;  
+    width: 1600px;  
 }
 
 .infor {
